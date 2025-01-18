@@ -1,3 +1,6 @@
+![No Kid Hungry Preview](img/No%20kid%20hungry.png)
+
+
 No Kid Hungry Landing Page
 This is a pixel-perfect replication of a landing page design from Figma, created as a practice project for my front-end development portfolio.
 
