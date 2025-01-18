@@ -1,4 +1,6 @@
-![No Kid Hungry Preview](img/No kid hungry.png)
+# No Kid Hungry Landing Page  
+
+![Landing Page Preview](img/No%20kid%20hungry.png) 
 
 
 No Kid Hungry Landing Page
